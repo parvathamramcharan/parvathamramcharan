@@ -1,16 +1,22 @@
-## Hi there 👋
+# About Me
 
-<!--
-**parvathamramcharan/parvathamramcharan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm [Your Name], a passionate Computer Science student proficient in Python and Java. I'm an aspiring software developer with a keen interest in machine learning and data science.
 
-Here are some ideas to get you started:
- 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **Languages:** Python, Java
+- **Technologies:** Git, Docker, SQL
+- **Areas of Interest:** Software Development, Machine Learning, Data Science
+
+## Projects
+- [Project 1](link-to-project): Description of project 1.
+- [Project 2](link-to-project): Description of project 2.
+
+## Education
+- **University Name**
+  - Bachelor of Science in Computer Science
+  - Expected Graduation: [Year]
+
+## Contact
+- [Email](mailto:your-email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/your-username)
+- [Instagram](https://www.instagram.com/yourusername)
