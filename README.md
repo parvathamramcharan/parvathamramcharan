@@ -1,6 +1,6 @@
 # About Me
 
-Hi, I'm [Parvatham Ramchara], a passionate Computer Science student proficient in C and Java. I'm an aspiring software developer with a keen interest in machine learning and data science.
+Hi, I'm Parvatham Ramcharan 👋, a passionate Computer Science student proficient in C and Java. I'm an aspiring software developer with a keen interest in machine learning and data science.
 
 ## Skills
 - **Languages:** C, Java
