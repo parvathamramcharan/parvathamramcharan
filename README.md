@@ -5,6 +5,7 @@ Hi, I'm [Parvatham Ramchara], a passionate Computer Science student proficient i
 ## Skills
 - **Languages:** C, Java
 - **Web Development:** HTML, CSS, JavaScript ,React
+- **Version Control**: Git and Github
 - **Areas of Interest:** Software Development, Machine Learning, Data Science 
 
 ## Projects
