@@ -12,8 +12,8 @@ Hi, I'm Parvatham Ramcharan 👋, a passionate Computer Science student proficie
 - **Areas of Interest:** Software Development, Machine Learning, Data Science 
 
 ## Projects
-- [Project 1](link-to-project): Description of project 1.
-- [Project 2](link-to-project): Description of project 2.
+- [Project 1](https://github.com/parvathamramcharan/graph-plotter):A react.js based application which plots the graph based on given input of x-axis and y-axis points
+- [Project 2](https://github.com/parvathamramcharan/Tic_Tac_Toe_Game): Developed a classic Tic-Tac-Toe game using HTML, CSS, and JavaScript.
 
 ## Education
 - **CMR Institute of Technology**
