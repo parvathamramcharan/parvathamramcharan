@@ -1,15 +1,15 @@
 # Hi there, I'm Parvatham Ramcharan! 👋
 
-Hi, I'm Parvatham Ramcharan 👋, a passionate Computer Science student proficient in C and Java. I'm an aspiring software developer .
-- 🎓 I'm currently pursuing a degree in Artificial Intelligence and Data Science at CMR Institute of Technology, Hyderabad. Expected graduation: May 2025.
-- 🔭 I’m currently working on enhancing my skills in software development, machine learning, and data science.
+Hi, I'm Parvatham Ramcharan 👋, a passionate Computer Science student proficient in Java. I'm an aspiring software developer .
+- 🎓 I have graduated in Artificial Intelligence and Data Science from CMR Institute of Technology, Hyderabad.
+- 🔭 I’m currently working on enhancing my skills in software development.
   
 
 ## Skills
 - **Languages:** C, Java
 - **Web Development:** HTML, CSS, JavaScript ,React
 - **Version Control**: Git and Github
-- **Areas of Interest:** Software Development, Machine Learning, Data Science 
+- **Areas of Interest:** Software Development, Data Science 
 
 ## Projects
 - [Project 1](https://github.com/parvathamramcharan/user-management-system):A MERN  based application which we can perform CRUD operations( create , read, update and delete).
