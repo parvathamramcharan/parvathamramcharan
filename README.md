@@ -18,7 +18,7 @@ Hi, I'm Parvatham Ramcharan 👋, a passionate Computer Science student proficie
 ## Education
 - **CMR Institute of Technology**
   - Bachelor of Science in Computer Science
-  - Expected Graduation: [2025]
+  -  Graduated: [2025]
 
 ## Contact
 - [Email](parvathamramcharan7@gmail.com)
